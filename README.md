@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cover-manifestos.png" alt="manifestos. — long-form arguments from the field" width="100%" />
+  <img src="cover.png" alt="manifestos. — long-form arguments from the field" width="100%" />
 </p>
 
 The big swings. Why something is wrong. Why something matters. Why the lane I was told to stay in was the wrong shape. Numbered, dated, never deleted.
@@ -8,7 +8,9 @@ The big swings. Why something is wrong. Why something matters. Why the lane I wa
 
 ### ⁂ ESSAYS
 
-<sub>*first essay landing soon — nothing here gets pruned once posted.*</sub>
+|  |  |
+|:---|:---|
+| `01` | [**The Naturalist Resurgence**](01-naturalist-resurgence.md) — *why I'm claiming a 200-year-old word.*  ·  *MAY · 2026 · 108* |
 
 ⁂
 
